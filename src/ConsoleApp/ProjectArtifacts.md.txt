@@ -56,3 +56,7 @@ return count;
 Диаграммы
 
 Diagram/Untitled Diagram.drawio - UML-диаграмма модулей 
+
+Протоколы проекта
+
+ProjectProtocols.md
